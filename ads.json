@@ -1,5 +1,9 @@
 [
 {
+"title":"Brightness Dimmer Pro",
+"package": "com.util.brightnesscontroller"
+},
+{
 "title":"C++ Patterns Programs",
 "package": "com.education.cpppatterns"
 },
